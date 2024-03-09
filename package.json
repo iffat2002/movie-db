@@ -1,5 +1,6 @@
 {
-"homepage": "https://iffat2002.github.io/MovieDB/",
+
+"homepage": "https://iffat2002.github.io/movie-db",
   "name": "moviedb",
 
   "version": "0.1.0",
@@ -57,7 +58,6 @@
     "eject": "react-scripts eject",
 
     "predeploy": "npm run build",
-
     "deploy": "gh-pages -d build"
 
   },
